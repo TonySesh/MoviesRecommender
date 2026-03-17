@@ -30,9 +30,9 @@ MoviesRecommender - учебный проект, реализованный на
 # Настройка БД:
 1. Добавить БД movies_final
 2. В файле 'src/main/resources' создать файл config.properties и указать:
-db.url=jdbc:postgresql://localhost:5432/movies_final
-db.user=postgres
-db.password=твой_пароль
+- db.url=jdbc:postgresql://localhost:5432/movies_final
+- db.user=postgres
+- db.password=твой_пароль
 3. Создать таблицы friends, liked, disliked, users, watched 
 
 # Структура БД
